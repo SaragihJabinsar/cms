@@ -15,8 +15,8 @@ Perfect for beginners who want to learn **fullstack fundamentals**. ✨
 
 ---
 
-```
 ## 📂 Project Structure
+```
 blog-cms/
 │── index.php → Homepage (list of posts)
 │── post.php → Post detail page
@@ -36,9 +36,9 @@ blog-cms/
 - **Server**: XAMPP
 
 ---
-```
-## sql
 
+## SQL
+```
 CREATE TABLE posts (
   id INT AUTO_INCREMENT PRIMARY KEY,
   title VARCHAR(255) NOT NULL,
