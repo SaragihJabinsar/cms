@@ -36,8 +36,8 @@ blog-cms/
 - **Server**: XAMPP
 
 ---
-
-sql
+```
+## sql
 
 CREATE TABLE posts (
   id INT AUTO_INCREMENT PRIMARY KEY,
@@ -45,7 +45,7 @@ CREATE TABLE posts (
   content TEXT NOT NULL,
   image VARCHAR(255) NOT NULL
 );
-
+```
 ---
 
 📸 Screenshots
