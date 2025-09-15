@@ -2,7 +2,7 @@
 
 A simple **Content Management System (CMS)** for blogging, built with **PHP, MySQL, and Bootstrap**.  
 This project is designed to manage articles with basic **CRUD functionality** (Create, Read, Delete).  
-Perfect for beginners who want to learn **fullstack fundamentals**. ✨
+Perfect for beginners. ✨
 
 ---
 
